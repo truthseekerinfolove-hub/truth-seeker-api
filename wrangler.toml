@@ -1,0 +1,8 @@
+name = "truth-seeker-api"
+main = "worker.js"
+compatibility_date = "2026-10-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "truth-seeker-submissions"
+database_id = "789cdc1f-10dd-4fb1-8ab6-c811a9cb35b6"
